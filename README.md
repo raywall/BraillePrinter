@@ -13,7 +13,7 @@ aqueles que realmente precisam.
 https://user-images.githubusercontent.com/6422997/128648269-b0d921a4-b340-4ca5-ad9f-da523fdeb597.mp4
 
 
-#Braille
+### Braille
 
 O conceito do Braille relativamente simples. 
 Nele cada letra é representada por uma matriz 3x2 contendo 6 pontos chamada de cela, e a combinação dos pontos indica a letra escrita.
@@ -29,7 +29,7 @@ Também é possível utilizar a musicografia braille para representar partituras
 Obs. É possível converter partituras musicais criadas no Musibraille (UFRJ) e imprimir com esta impressora
 
 
-#Comunicação e interpretação do Braille pela impressora
+### Comunicação e interpretação do Braille pela impressora
 
 Com base nestes modelos, a impressora funciona de forma bastante simples e rudimentar, recebendo através de comunicação serial uma mensagem
 contendo o identiicação do tipo de conteúdo e o conteúdo da página a ser impressa.
@@ -46,7 +46,7 @@ da cela braille, sendo um bit em auto (1) equivalente a pressão e o seu oposto 
 ![image](https://user-images.githubusercontent.com/6422997/128648045-4b9b40da-892e-48ce-ba97-7cad3ad893b6.png)
 
 
-#Montando a impressora
+### Montando a impressora
 
 ![image](https://user-images.githubusercontent.com/6422997/128648093-e0c562b6-e7b7-42e7-8349-af41ac90ef87.png)
 
